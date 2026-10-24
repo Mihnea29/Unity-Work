@@ -101,9 +101,9 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _GlossMapScale: 0
+    - _GlossMapScale: 1
     - _Glossiness: 0
-    - _GlossyReflections: 0
+    - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 0.707
@@ -127,7 +127,7 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &6479052999177945797
+--- !u!114 &7674351400654504373
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
